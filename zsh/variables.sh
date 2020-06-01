@@ -1,5 +1,4 @@
 #!/bin/zsh
-echo "Hello World!"
 
 #---------------
 # VARIABLES
